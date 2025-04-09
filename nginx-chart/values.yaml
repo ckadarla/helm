@@ -1,0 +1,10 @@
+replicaCount: 1
+
+app:
+  name: nginx
+
+image:
+  repository: quay.io/smikcp/nginx
+  tag: latest
+
+containerPort: 80
