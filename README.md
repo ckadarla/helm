@@ -4,7 +4,8 @@ helm for nginx
 ----------------------------------
 
 ```
-git clone 
+git clone https://github.com/ckadarla/helm.git
+cd helm
 helm install my-nginx ./nginx-chart
 
 ```
